@@ -1,0 +1,11 @@
+manifest:
+  remotes:
+    - name: zmkfirmware
+      url-base: https://github.com/Tomahawk-Keyboards
+  projects:
+    - name: zmk
+      remote: zmkfirmware
+      revision: add_tomahawk56_shield_2
+      import: app/west.yml
+  self:
+    path: config
