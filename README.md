@@ -22,5 +22,5 @@ Left Half, Right Half \
 On <- Off, On <- Off
 
 Official ZMK Studio App: https://zmk.studio/download \
-Firmware: https://github.com/Tomahawk-Keyboards/tomahawk44-wireless-view-zmk-config/releases/download/v1.0/firmware.zip
+Firmware: https://github.com/Tomahawk-Keyboards/tomahawk44-wireless-view-zmk-config/releases/download/v1.1/firmware.zip
 
