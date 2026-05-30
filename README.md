@@ -2,20 +2,20 @@ Important shortcuts: \
 Lower layer: PgDn + any key \
 Upper layer: PgUp + any key
 
-Changing Bluetooth profile/switching between devices: PgDn + 1/2/3/4/5 \
+Changing Bluetooth profile/switching between devices: PgDn + Q/W/E/R/T \
 Erasing Bluetooth profile: PgDn + ESC
 
-Toggle RGB On/Off: PgDn + 6 \
-Hue Up: PgDn + 7 \
-Hue Down: PgDn + U \
-Saturation Up: PgDn + 8 \
-Saturation Down: PgDn + I \
-Brightness Up: PgDn + 9 \
-Brightness Down: PgDn + O (letter) \
-Speed Up: PgDn + 0 \
-Speed Down: PgDn + P \
+Toggle RGB On/Off: PgDn + Y \
+Hue Up: PgDn + U \
+Hue Down: PgDn + J \
+Saturation Up: PgDn + I \
+Saturation Down: PgDn + K \
+Brightness Up: PgDn + O \
+Brightness Down: PgDn + L \
+Speed Up: PgDn + P \
+Speed Down: PgDn + ; \
 Next Effect: PgDn + DEL \
-Previous Effect: PgDn + - 
+Previous Effect: PgDn + ' 
 
 Physical power switch is located new USB-C connector. \
 Left Half, Right Half \
